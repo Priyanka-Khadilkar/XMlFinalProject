@@ -13,3 +13,5 @@ I used following APIs:
  Google sign in URL should be : http://localhost/XMlFinalProjectAPIs/index.php 
  Please pull project into the "XMlFinalProjectAPIs" folder.
  
+ - Some of the city data is not available in zomato apis.Please try with searching **"Ahmedabad"**, **"Toronto"**,**"Mumbai"** cities in "Add to place" page.
+ 
