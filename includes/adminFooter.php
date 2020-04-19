@@ -16,7 +16,7 @@
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
 <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcg90IUgrfKTRfRWhy4xKuGQGH7PgVjEI&libraries=places&callback=initializeMap"></script>
+        src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places&callback=initializeMap"></script>
 <script src="../script/restaurantDetail.js"></script>
 </body>
 </html>
