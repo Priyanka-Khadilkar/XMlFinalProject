@@ -1,0 +1,80 @@
+/* Show it is fixed to the top */
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+}
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../images/coverbackground.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg_purple{
+    background-color: #900C3E;
+    color: white;
+}
+
+.bg_darkPurple{
+    background-color: #571845;
+    color: white;
+}
+
+.stars {
+    color: #ff7501;
+    font-size: 1.2em;
+}
+
+.profile_pic{
+    width: 60px;
+    height: 60px;
+}
+
+.responsiveMap {
+    height: 300px;
+    padding: 1.25rem;
+}
+
+.padding0{
+    padding: 0 !important;
+}
+
+.padding9em{
+    padding: 0.9em;
+}
+
+.text-darkPurple{
+    color: #571845;
+    font-weight: 500;
+}
+
+.imgHeight200{
+    height: 200px;
+}
+
+.marginBottom{
+    margin-bottom: 10px;
+}
+
+.whiteColor{
+    color: white;
+}
+
+.btngoogle:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.btnRed{
+    background-color: #C70039;
+    border-color: #C70039;
+    color: white;
+}
+
+.btnRed:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
