@@ -11,5 +11,5 @@ I used following APIs:
  
  ## Note :
  Google sign in URL should be : http://localhost/XMlFinalProjectAPIs/index.php 
- Please pull your project into the "XMlFinalProjectAPIs" folder.
+ Please pull project into the "XMlFinalProjectAPIs" folder.
  
