@@ -58,12 +58,13 @@ if (isset($_GET["code"])) {
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css"
           integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
     <title>Food Adviser</title>
 </head>
 <body>
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg_purple">
-    <a class="navbar-brand" href="#">Food Adviser</a>
+    <a class="navbar-brand logo" href="#">Food Adviser</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

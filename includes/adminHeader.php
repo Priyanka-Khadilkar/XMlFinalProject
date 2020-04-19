@@ -18,12 +18,13 @@ if (isset($_SESSION['user_first_name'])) {
     <link rel="stylesheet" href="../css/bootstrap.min.css"
           integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/style.css">
     <title>Food Adviser</title>
 </head>
 <body>
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg_purple">
-    <a class="navbar-brand" href="../admin/home.php">Food Adviser</a>
+    <a class="navbar-brand logo" href="../admin/home.php">Food Adviser</a>
     <ul class="navbar-nav ml-auto">
         <li class="nav-item dropdown no-arrow">
             <a class="nav-link padding0 dropdown-toggle whiteColor" href="#" id="userDropdown" role="button"
