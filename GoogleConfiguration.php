@@ -4,9 +4,11 @@ require_once './vendor/autoload.php';
 
 $google_client = new Google_Client();
 
-$google_client->setClientId('1046336106555-rmukl812ateccplae818inq1toc47btt.apps.googleusercontent.com');
+//Set the OAuth 2.0 Client ID
+$google_client->setClientId('Your_Client_ID');
 
-$google_client->setClientSecret('O1rTh4REZNk4kk3is_dSOa8k');
+////Set the OAuth 2.0 Client Secret key
+$google_client->setClientSecret('YOUR_Clinet_Secret_KEY');
 //Change to your machine's index file
 $google_client->setRedirectUri('http://localhost/XMlFinalProjectAPIs/index.php');
 
