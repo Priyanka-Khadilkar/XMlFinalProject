@@ -4,6 +4,7 @@ I used following APIs:
 2. Zomato Apis
 3. Google places 
  
+## Description :
  - Users can login into system with the google credentials.
  - Users can search restauarnt using city name and view details of restaurant.User can add restaurants to favourite list.
  - User can add places to visit and according to added places users will see random added places's trending restaurant on home page.
